@@ -9,10 +9,10 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <h2 className="text-xl font-semibold text-pastel-blue dark:text-light-pastel-blue">
-              Putri Kiara
+              Kiara Salsabila
             </h2>
             <p className="text-gray-500 dark:text-gray-400 text-sm mt-1">
-              A minimalist blog for sharing ideas
+              In my own little bubble.
             </p>
           </div>
 
@@ -51,7 +51,7 @@ const Footer = () => {
 
         <div className="mt-8 border-t border-gray-100 dark:border-gray-700 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 dark:text-gray-400 text-sm">
-            © {currentYear} Putri Kiara. All rights reserved.
+            © {currentYear} Putri Kiara Salsabila Arief (TP SBD Modul 9)
           </p>
           <div className="mt-4 md:mt-0">
             <ul className="flex space-x-6">

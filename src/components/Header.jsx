@@ -7,15 +7,15 @@ const Header = () => {
             Welcome to My Personal Space
           </h1>
           <p className="text-lg max-w-2xl mx-auto opacity-90">
-            Explore my thoughts, ideas, and creations in this minimalist yet
-            elegant space designed just for you.
+            Discover a collection of my passions, projects, and perspectives —
+            crafted with simplicity and care.
           </p>
           <div className="mt-8">
             <a
               href="#articles"
               className="inline-block bg-white dark:bg-gray-900 text-pastel-blue dark:text-light-pastel-blue font-medium px-6 py-3 rounded-lg hover:bg-cream dark:hover:bg-gray-800 transition-colors duration-300"
             >
-              Explore Articles
+              Explore My Workles
             </a>
           </div>
         </div>

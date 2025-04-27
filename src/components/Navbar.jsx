@@ -24,7 +24,7 @@ const Navbar = () => {
           {/* Name / Logo */}
           <div className="flex-shrink-0 flex items-center">
             <h1 className="text-xl font-semibold text-pastel-blue dark:text-light-pastel-blue">
-              Putri Kiara
+              Kiara Salsabila
             </h1>
           </div>
 
