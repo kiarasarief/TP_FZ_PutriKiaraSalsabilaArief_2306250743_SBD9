@@ -28,7 +28,7 @@ const Navbar = () => {
               to="/"
               className="text-xl font-semibold text-pastel-blue dark:text-light-pastel-blue"
             >
-              Putri Kiara
+              Kiara Salsabila
             </Link>
           </div>
 
